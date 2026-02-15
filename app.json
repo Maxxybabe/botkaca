@@ -13,19 +13,19 @@
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
-        "value": ""
+        "value": "28874393"
       },
       "API_HASH": {
         "description": "get this value from https://my.telegram.org",
-        "value": ""
+        "value": "b75001191909efeabb3355ebb78323b7"
       },
       "BOT_TOKEN": {
         "description": "get this value from @BotFather",
-        "value": ""
+        "value": "2143562935:AAF96SiBaBFC6peCISBf2h5_FUwmDAgqb50"
       },
       "BOT_PASSWORD": {
         "description": "enter pasword or leave it public",
-        "value": "",
+        "value": "false",
         "required" : false
       }
     },
